@@ -1,0 +1,15 @@
+/* LIMPAR FORMATAÇÕES PADRÕES */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-size: 1em;
+  font-family: 'trebuchet MS', Helvetica, sans-serif;
+  background: #e6e6e6;
+}
+
+#fundo-branco {
+  background-color: #FFF;
+}
